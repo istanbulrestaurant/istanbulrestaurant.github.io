@@ -1,0 +1,49 @@
+item_category,item_name_en,item_name_tr,item_name_me,item_name_ru,item_price,item_description
+Starters,Ezogelin Soup,Ezogelin Çorbası,Corba sa crvenim sočivom,Суп из красной чечевицы,4,Red lentil soup with bulgur and mint
+
+Main Course,Lahmacun,Lahmacun,Lahmacun,Lahmacun,4,Minced lamb,tomatoes,onions,and parsley on thin crust,
+Main Course,Pide with Cheese,Peynirli Pide,Pide sa sirom,Пиде с сыром,9,Flatbread topped with Gouda cheese
+Main Course,Vegetarian Potato Pide,Patatesli Pide,Pide sa krompirom,Пиде с картофелем,8,Flatbread topped potato,red pepper,green pepper and onion,,
+Main Course,Ground Beef Pide,Kiymali Pide,Pide sa mlevenim mesom,Пиде с фаршем,9,Flatbread topped with ground beef,red pepper,green pepper and tomato paste,,
+Main Course,Cubed Beef Pide,Kuşbaşılı Pide,Pide sa kockicama mesa,Пиде с кусочками мяса,12,Flatbread topped with cubed beef,red pepper,green pepper and tomato paste,,
+Main Course,Mix Pide,Karışık Pide,Pide sa mesom i povrćem,Пиде с мясом и овощами,13,Flatbread topped with Gouda cheese,cubed beef,ground beef,,
+Main Course,Doner Kebab Roll,Doner Dürüm,Doner rolnica,Рулет с донером,6,Seasoned beef or chicken cooked on a vertical rotisserie
+Main Course,Pita Doner Kebab,Pide Döner,Pita sa dönerom,Пита с донером,4,Seasoned beef or chicken cooked on a vertical rotisserie
+Main Course,Iskender Kebab,Iskender Kebap,Iskender kebab,Искендер кебаб,17,Beef or Chicken Doner kebab served over pieces of pita bread and topped with tomato sauce and yogurt
+Main Course,Adana Kebab,Adana Kebap,Adana kebab,Адана кебаб,10,Minced lamb flavored with spicy red bell peppers and grilled on skewers
+Main Course,Urfa Kebab,Şiş Urfa Kebap,Urfa kebab,Урфа кебаб,10,Minced lamb flavored with red bell peppers and grilled on skewers
+Main Course,Chicken Shish Kebab,Tavuk Şiş Kebap,Pileći šiš kebab,Куриный шашлык,9,Marinated chicken breast grilled on skewers
+Main Course,Lamb Shish Kebab,Kuzu Şiş Kebap,Jagnjeći šiš kebab,Бараний шашлык,15,Marinated lamb grilled on skewers
+Main Course,Mix Kebab,Karışık Kebap,Karışık kebab,Смешанный шашлык,28,A combination of different types of kebabs,Chicken Kebab,Lamb Kebab,Adana and Urfa Kebab,Doner
+
+Dessert,Walnut Baklava,Cevizli Baklava,Baklava sa orasima,Баклава с грецкими орехами,1.5,Sweet pastry made of layers of filo filled with chopped nuts,sweetened with syrup,,,
+Dessert,Pistachio Baklava,Fıstıklı Baklava,Baklava sa pistacima,Баклава с фисташками,1.5,Sweet pastry made of layers of filo filled with chopped pistachio,sweetened with syrup,,,
+Dessert,Kadayif,Kadayıf,Kadaif,Кадайф,3,A traditional Middle Eastern dessert made with shredded filo pastry with chopped nuts,soaked in sweet syrup,,,
+Dessert,Sutlac,Sütlaç,Sutlijaš,Сутляч,3,Traditional Turkish rice pudding,creamy and sweet,,,
+Dessert,Walnut Revani,Cevizli Revani,Revani sa orasima,Ревани с грецкими орехами,2.5,A moist and sweet semolina cake infused with syrup and walnuts
+Dessert,Urmašice,Urmaşice,Urmašice,Урмашице,1.5,Traditional Balkan syrup-soaked pastry
+
+Drinks,Ayran,Ayran,Ajran,Айран,1.5
+Drinks,Turkish Tea,Türk Çayı,Turski čaj,Турецкий чай,1
+Drinks,Apple Tea,Elma Çayı,Jabukov čaj,Яблочный чай,2
+Drinks,Turkish Coffee,Türk Kahvesi,Turska kafa,Турецкое кофе,1.5
+Drinks,Mineral Water,Mineral Su,Mineralna voda,Минеральная вода,1.5
+
+Drinks,Water,Water,Voda,Вода,1.5
+Drinks,Cola,Cola,Kola,Кола,2.5
+Drinks,Fanta,Fanta,Fanta,Фанта,2.5
+Drinks,Sprite,Sprite,Sprajt,Спрайт,2.5
+Drinks,Lemonade,Limonata,Limunada,Лимонад,2.5
+Drinks,Bitter Lemon,Bitter Lemon,Gorki limun,Горький лимон,2.5
+Drinks,Apple Juice,Elma Suyu,Jabukov sok,Яблочный сок,2.5
+Drinks,Fresh Orange Juice,Taze Portakal Suyu,Sveže ceđeni sok od pomorandže,Свежевыжатый апельсиновый сок,3.5
+
+Alcohol,Raki,Rakı,Raki,Раки,5,20 ml
+Alcohol,Nikšičko Beer,Nikšićko Pivo,Nikšićko Pivo,Пиво Никшичко,3,300 ml
+Alcohol,Nikšičko Beer,Nikšićko Pivo,Nikšićko Pivo,Пиво Никшичко,3,500 ml
+Alcohol,Heineken Beer,Heineken Pivo,Heineken Pivo,Пиво Хайнекен,3,330 ml
+Alcohol,Tuborg Beer,Tuborg Pivo,Tuborg Pivo,Пиво Туборг,3,500 ml
+Alcohol,Somersby,Somersby,Somersby,Сомерсби,3.5,330 ml
+Alcohol,Vranac,Vranac,Vranac,Вранац,3.5,187 ml
+Alcohol,Chardonay,Chardonay,Chardonay,Шардоне,3.5,187 ml
+Alcohol,Rose,Rose,Rose,Розе,3.5,187 ml

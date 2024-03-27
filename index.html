@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant Menu</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="menu-body">
+    <!-- Language Picker -->
+    <div class="language-picker">
+        <select id="language-select">
+            <option value="en">English</option>
+            <option value="tr">Türkçe</option>
+            <option value="me">Crnagorski</option>
+            <option value="ru">русский</option>
+            <!-- Add other languages as needed -->
+        </select>
+    </div>
+    <h1 class="menu-title">ISTANBUL RESTAURANT</h1>
+    
+    <div id="menu"></div>
+    <script src="menu.js"></script>
+
+    <script>
+        // JavaScript for language change handling
+        document.getElementById('language-select').addEventListener('change', function() {
+            var selectedLanguage = this.value;
+            loadMenuForLanguage(selectedLanguage);
+        });
+
+        function loadMenuForLanguage(language) {
+            // Functionality to load the menu in the selected language
+            console.log("Loading menu in language:", language);
+        }
+
+        // Initial load in default language
+        loadMenuForLanguage('en');
+    </script>
+</body>
+</html>

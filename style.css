@@ -1,0 +1,103 @@
+.menu-body {
+  max-width: 680px;
+  /* margin: 0 auto; */
+  padding: 10;
+  display: block;
+  color: rgb(92, 92, 92) ! important;
+}
+.menu-title {
+  max-width: 680px;
+  text-align: Center;
+  padding: 10;
+  display: block;
+  color: rgb(92, 92, 92) ! important;
+  font-size: 3em;
+  font-style: italic;
+}
+.menu-itemimage {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+  background-size: cover;
+  background-position: center center;
+}
+.menu-section {
+  margin-bottom: 80px;
+}
+
+.menu-section-title {
+  font-family: georgia;
+  font-size: 50px;
+  display: block;
+  font-weight:normal;
+  margin: 20px 0;
+  text-align: Center;
+}
+
+.menu-item {
+  margin: 35px 0;
+  font-size: 18px;
+}
+
+.menu-item-name{
+  font-family: helvetica;
+  font-weight: bold;
+  border-bottom: 2px dotted rgb(213, 213, 213);
+}
+
+.menu-item-description {
+  font-style: italic;
+  font-size: .9em;
+  line-height: 1.5em;
+}
+
+.menu-item-price{
+  float: right;
+  font-weight: bold;
+  font-family: arial;
+  margin-top: -22px;
+}
+
+
+/* Language Picker Styling */
+.language-picker {
+  text-align: right; /* Center the picker */
+  margin-bottom: 10px; /* Space between picker and title */
+  margin-right: -18px;
+}
+
+.language-picker select {
+  padding: 10px 15px; /* Padding for aesthetics */
+  border-radius: 5px; /* Rounded corners */
+  border: 1px solid #ccc; /* Light border */
+  background-color: white; /* White background */
+  cursor: pointer; /* Pointer cursor on hover */
+  outline: none; /* Remove focus outline */
+  font-size: 1em; /* Adjust font size as needed */
+}
+
+/* Style to make select box appear more uniform across browsers */
+.language-picker select:-moz-focusring {
+  color: transparent;
+  text-shadow: 0 0 0 #000;
+  background-color: white;
+}
+
+/* Menu Title Styling (adjust as necessary) */
+.menu-title {
+  text-align: center;
+  font-size: 2em; /* Large text for title */
+  margin-top: 0;
+}
+
+/* Additional body styling for better layout */
+.menu-body {
+  font-family: Arial, sans-serif; /* Use a common font */
+  padding: 0px 20px 20px 20px; /* Padding around the content */
+}
+.language-select {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: right;
+}
