@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
             let menu = {};
             lines.forEach((line, index) => {
                 if (index === 0) return; // skip header
-                let [category, name_en,name_tr,name_me,name_ru, price, description] = line.split(',');
+                let [category, name_en,name_tr,name_me,name_ru, price, ...description] = line.split(',');
                 if (!menu[category]) menu[category] = [];
                 if (language === 'en') menu[category].push({ name_en: name_en, name: name_en, price, description });
                 if (language === 'tr') menu[category].push({ name_en: name_en, name: name_tr, price, description });
