@@ -7,13 +7,13 @@ Main Course,Pide with Cheese,Peynirli Pide,Pide sa sirom,Пиде с сыром,
 Main Course,Potato Pide,Patatesli Pide,Pide sa krompirom,Пиде с картофелем,8,Flatbread topped potato,red pepper,green pepper and onion
 Main Course,Ground Beef Pide,Kıymalı Pide,Pide sa mlevenim mesom,Пиде с фаршем,9,Flatbread topped with ground beef,red pepper,green pepper and tomato paste
 Main Course,Cubed Beef Pide,Kuşbaşılı Pide,Pide sa kockicama mesa,Пиде с кусочками мяса,12,Flatbread topped with cubed beef,red pepper,green pepper and tomato paste
-Main Course,Mix Pide,Karışık Pide,Mix Pide,Пиде с мясом и овощами,13,Flatbread topped with Gouda cheese,cubed beef,ground beef,,
+Main Course,Mix Pide,Karışık Pide,Mix Pide,Пиде с мясом и овощами,13,Flatbread topped with Gouda cheese,cubed beef,ground beef
 Main Course,Doner Kebab Roll,Doner Dürüm,Doner u tortilji,Рулет с донером,6,Seasoned beef or chicken cooked on a vertical rotisserie
 Main Course,Pita Doner Kebab,Pide Döner,Doner u lepinji,Пита с донером,4,Seasoned beef or chicken cooked on a vertical rotisserie
 Main Course,Iskender Kebab,Iskender Kebap,Iskender kebab,Искендер кебаб,17,Beef or Chicken Doner kebab served over pieces of pita bread and topped with tomato sauce and yogurt
 
 Salad,Green Salad,Mevsim Salatasi,Zelena Salad,зеленый салат,5,A fresh and healthy mix of assorted greens
-Salad,Shopska salad,Shopska salata,Šopska salata,Салат Пастухи,5,Classic Turkish salad with a simple and fresh mix of diced ingredients
+Salad,Shepherd salad,Çoban salata,Čoban salata,Салат пастух,5,Classic Turkish salad with a simple and fresh mix of diced ingredients
 
 
 Dessert,Walnut Baklava,Cevizli Baklava,Baklava sa orasima,Баклава с грецкими орехами,1.5,Sweet pastry made of layers of filo filled with chopped nuts,sweetened with syrup
@@ -21,7 +21,7 @@ Dessert,Pistachio Baklava,Fıstıklı Baklava,Baklava sa pistacima,Баклав�
 Dessert,Kadayif,Kadayıf,Kadaif,Кадайф,3,A traditional Middle Eastern dessert made with shredded filo pastry with chopped nuts,soaked in sweet syrup
 Dessert,Sutlac,Sütlaç,Sutlijaš,Сутляч,3,Traditional Turkish rice pudding,creamy and sweet
 Dessert,Walnut Revani,Cevizli Revani,Revani sa orasima,Ревани с грецкими орехами,2.5,A moist and sweet semolina cake infused with syrup and walnuts
-Dessert,Urmašice,Urmašice,Urmašice,Урмашице,1.5,Traditional Balkan syrup-soaked pastry
+Dessert,Urmasice,Urmašice,Urmašice,Урмашице,1.5,Traditional Balkan syrup-soaked pastry
 
 Drinks,Ayran,Ayran,Ajran,Айран,1.5
 Drinks,Turkish Tea,Türk Çayı,Turski čaj,Турецкий чай,1
