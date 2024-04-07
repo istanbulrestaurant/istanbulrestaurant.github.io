@@ -34,7 +34,7 @@ function displayMenu(menu) {
             let itemDiv = document.createElement('div');
             itemDiv.className = 'menu-item';
 
-            let imagePath = 'images/' + item.name_en.replace(/\s+/g, '-') + '.png';
+            let imagePath = 'images/' + item.name_en.replace(/\s+/g, '-') + '.jpg';
             let img = document.createElement('img');
             img.id = item.name;
             img.src = imagePath;
