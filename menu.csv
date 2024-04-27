@@ -2,7 +2,7 @@ item_category,item_name_en,item_name_tr,item_name_me,item_name_ru,item_price,ite
 Starters,Ezogelin Soup,Ezogelin Çorbası,Corba sa crvenim sočivom,Суп из красной чечевицы,4,Red lentil soup with bulgur
 Starters,French Fries,Patates Kizartması,Pomfrit,картофель фри,3,Classic crispy and golden potato fries
 
-Main Course,Lahmacun,Lahmacun,Lahmacun,Lahmacun,4,Minced lamb,tomatoes,onions,and parsley on thin crust
+Main Course,Lahmacun,Lahmacun,Lahmacun,Лахмакун,4,Minced lamb,tomatoes,onions,and parsley on thin crust
 Main Course,Pide with Cheese,Peynirli Pide,Pide sa sirom,Пиде с сыром,9,Flatbread topped with Gouda cheese
 Main Course,Potato Pide,Patatesli Pide,Pide sa krompirom,Пиде с картофелем,8,Flatbread topped potato,red pepper,green pepper and onion
 Main Course,Ground Beef Pide,Kıymalı Pide,Pide sa mlevenim mesom,Пиде с фаршем,9,Flatbread topped with ground beef,red pepper,green pepper and tomato paste
@@ -10,6 +10,7 @@ Main Course,Cubed Beef Pide,Kuşbaşılı Pide,Pide sa kockicama mesa,Пиде �
 Main Course,Mix Pide,Karışık Pide,Mix Pide,Пиде с мясом и овощами,13,Flatbread topped with Gouda cheese,cubed beef,ground beef
 Main Course,Doner Kebab Roll,Doner Dürüm,Doner u tortilji,Рулет с донером,6,Seasoned beef or chicken cooked on a vertical rotisserie
 Main Course,Pita Doner Kebab,Pide Döner,Doner u lepinji,Пита с донером,4,Seasoned beef or chicken cooked on a vertical rotisserie
+Main Course,Doner Special,Döner Porsiyon,Doner porcija,порция донера,10,A serving of doner kebab meat,served with bread,rice and salad
 Main Course,Iskender Kebab,Iskender Kebap,Iskender kebab,Искендер кебаб,17,Beef or Chicken Doner kebab served over pieces of pita bread and topped with tomato sauce and yogurt
 
 Salad,Green Salad,Mevsim Salatasi,Zelena Salad,зеленый салат,5,A fresh and healthy mix of assorted greens
@@ -23,20 +24,22 @@ Dessert,Sutlac,Sütlaç,Sutlijaš,Сутляч,3,Traditional Turkish rice puddin
 Dessert,Walnut Revani,Cevizli Revani,Revani sa orasima,Ревани с грецкими орехами,2.5,A moist and sweet semolina cake infused with syrup and walnuts
 Dessert,Urmasice,Urmašice,Urmašice,Урмашице,1.5,Traditional Balkan syrup-soaked pastry
 
+
 Drinks,Ayran,Ayran,Ajran,Айран,1.5
+Drinks,Lemonade,Limonata,Limunada,Лимонад,2.5
 Drinks,Turkish Tea,Türk Çayı,Turski čaj,Турецкий чай,1
 Drinks,Apple Tea,Elma Çayı,Jabukov čaj,Яблочный чай,2
 Drinks,Turkish Coffee,Türk Kahvesi,Turska kafa,Турецкое кофе,1.5
 Drinks,Mineral Water,Mineral Su,Mineralna voda,Минеральная вода,1.5
-
+Drinks,Fresh Orange Juice,Taze Portakal Suyu,Sveže ceđeni sok od pomorandže,Свежевыжатый апельсиновый сок,3.5
+Drinks,Apple Juice,Elma Suyu,Sok od jabuke,Яблочный сок,2.5
+Drinks,Orange Juice,Portakal Suyu,Sok od narandže,апельсиновый сок,2.5
 Drinks,Water,Water,Voda,Вода,1.5
 Drinks,Cola,Cola,Kola,Кола,2.5
 Drinks,Fanta,Fanta,Fanta,Фанта,2.5
 Drinks,Sprite,Sprite,Sprajt,Спрайт,2.5
-Drinks,Lemonade,Limonata,Limunada,Лимонад,2.5
 Drinks,Bitter Lemon,Bitter Lemon,Bitter limun,Биттер лимон,2.5
-Drinks,Apple Juice,Elma Suyu,Jabukov sok,Яблочный сок,2.5
-Drinks,Fresh Orange Juice,Taze Portakal Suyu,Sveže ceđeni sok od pomorandže,Свежевыжатый апельсиновый сок,3.5
+
 
 Alcohol,Raki,Rakı,Raki,Раки,5,20 ml
 Alcohol,Nikšičko Beer,Nikšićko Pivo,Nikšićko Pivo,Пиво Никшичко,3,300 ml
@@ -47,5 +50,3 @@ Alcohol,Somersby,Somersby,Somersby,Сомерсби,3.5,330 ml
 Alcohol,Vranac,Vranac,Vranac,Вранац,3.5,187 ml
 Alcohol,Chardonay,Chardonay,Chardonay,Шардоне,3.5,187 ml
 Alcohol,Rose,Rose,Rose,Розе,3.5,187 ml
-
-
